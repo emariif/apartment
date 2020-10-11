@@ -1,0 +1,228 @@
+* {
+    overflow-x: hidden;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+
+.text {
+    width: 375px;
+    height: 812px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
+
+.login {
+    width: 78px;
+    color: rgba(0, 0, 0, 0.8999999761581421);
+    position: absolute;
+    top: 192px;
+    left: 39px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 24px;
+    opacity: 1;
+    text-align: left;
+}
+
+.deskripsi {
+    width: 147px;
+    color: rgba(191, 191, 191, 1);
+    position: absolute;
+    top: 236px;
+    left: 39px;
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 14px;
+    opacity: 1;
+    text-align: left;
+}
+
+.email {
+    width: 65px;
+    color: rgba(151, 151, 151, 1);
+    position: absolute;
+    top: 289px;
+    left: 39px;
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.password {
+    width: 59px;
+    color: rgba(151, 151, 151, 1);
+    position: absolute;
+    top: 377px;
+    left: 39px;
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.logged {
+    width: 114px;
+    color: rgba(151, 151, 151, 1);
+    position: absolute;
+    top: 466px;
+    left: 75px;
+    font-family: Poppins;
+    font-weight: Medium;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.forgotPassword {
+    width: 106px;
+    color: rgba(73, 109, 235, 1);
+    position: absolute;
+    top: 571px;
+    left: 133px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.rectangleEmail {
+    width: 295px;
+    height: 42px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 315px;
+    left: 39px;
+    border: 1px solid rgba(215, 215, 215, 1);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.05000000074505806);
+    overflow: hidden;
+}
+
+.rectanglePassword {
+    width: 295px;
+    height: 42px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 403px;
+    left: 39px;
+    border: 1px solid rgba(215, 215, 215, 1);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.05000000074505806);
+    overflow: hidden;
+}
+
+.inputEmail {
+    width: 113px;
+    color: rgba(208, 208, 208, 1);
+    position: absolute;
+    top: 327px;
+    left: 57px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.inputPassword {
+    width: 119px;
+    color: rgba(208, 208, 208, 1);
+    position: absolute;
+    top: 415px;
+    left: 57px;
+    font-family: Poppins;
+    font-weight: Regular;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.button {
+    width: 295px;
+    height: 42px;
+    background: url("../images/v2_10.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.699999988079071;
+    position: absolute;
+    top: 517px;
+    left: 39px;
+    overflow: hidden;
+}
+
+.buttonLogin {
+    width: 295px;
+    height: 42px;
+    background: rgba(73, 109, 235, 1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 2px 6px rgba(0.29019609093666077, 0.4274509847164154, 0.9254902005195618, 0.10000000149011612);
+    overflow: hidden;
+}
+
+.log {
+    width: 33px;
+    color: rgba(255, 255, 255, 1);
+    position: absolute;
+    top: 12px;
+    left: 131px;
+    font-family: Poppins;
+    font-weight: SemiBold;
+    font-size: 12px;
+    opacity: 1;
+    text-align: left;
+}
+
+.checklistKeep {
+    width: 20px;
+    height: 20px;
+    background: rgba(255, 255, 255, 1);
+    opacity: 1;
+    position: absolute;
+    top: 465px;
+    left: 39px;
+    border: 1px solid rgba(215, 215, 215, 1);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    box-shadow: 1px 2px 6px rgba(0, 0, 0, 0.019999999552965164);
+    overflow: hidden;
+}
+
+.logo {
+    width: 113px;
+    height: 30px;
+    background: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 104px;
+    left: 39px;
+    overflow: hidden;
+}
